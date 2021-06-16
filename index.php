@@ -145,7 +145,7 @@ img.d-block {
           <!-- 2 -->
           <div class="container">
             <div class="row mt-5">
-                <h2 class="list-product-title">New product</h2>
+                <h2 class="list-product-title">Mèo méo meo</h2>
                 <div class="list-product-subtitle">
                     <p>List product description</p>
                 </div>
